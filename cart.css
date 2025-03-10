@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 header{
-    background-image: url(/images/header\ back.jpg);
+    background-image: url(images/header-back.jpg);
     background-size: cover;
     background-position: relative;
     background-position-x: -200px;
