@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-image: url(/images/header\ back.jpg);
+    background-size: cover;
+    background-position: relative;
+    background-position-x: -200px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #96948b;
+}
+.logo{
+    
+    mix-blend-mode:exclusion;
+    height: 150px;
+    position: relative;
+    top: 15px;
+
+    border-radius: 100%;
+}
+.bag-content{
+    display: flex;
+    justify-content: end;
+    position: relative;
+    left: -5px;
+
+}
+.bag{
+    height: 220px;
+    mix-blend-mode: multiply;
+    position: relative;
+    left: 70px;
+    bottom: -5px;
+     margin: -20px 0px;
+}
+    
+
+.table{
+    width: 100%;
+    text-align: center;
+    margin-left: -50px;
+    font-size: 25px;
+}
+.img
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+button{
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+i{
+    color: rgb(102, 97, 97);
+}
+h1{
+    font-family: "Sigmar", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: #F2E2B1;
+    text-shadow: white;
+    margin: -30px 0px;
+    
+}
+
+em{
+    font-family: "Sigmar", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150px;
+    color: #F2E2B1;
+    text-shadow: 5px 5px 5px #000000;
+  }
+  
+  .container{
+    margin-top: 20px;
+}
